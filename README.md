@@ -54,7 +54,7 @@ The database file can be directly integrated into mobile applications for offlin
 ## 🔧 Technical Specifications
 
 - **Format:** SQLite Database (.db)
-- **Size:** ~400 MB
+- **Size:** ~268 MB
 - **Encoding:** UTF-8
 - **Compatibility:** Cross-platform
 
